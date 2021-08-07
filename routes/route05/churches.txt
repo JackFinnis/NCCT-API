@@ -1,0 +1,19 @@
+0.4075344|52.6041445|St Mary, Bexwell|http://www.norfolkchurches.co.uk/Bexwell/Bexwell.htm
+0.4432775|52.6063845|St Mary's, Crimplesham|http://www.norfolkchurches.co.uk/Crimplesham/Crimplesham.htm
+0.4628242|52.6242175|St Mary's, Stradsett|http://www.norfolkchurches.co.uk/Stradsett/Stradsett.htm
+0.4428483|52.6716668|St Botolph, Tottenhill|http://www.norfolkchurches.co.uk/Tottenhill/Tottenhill.htm
+0.4756723|52.6801562|St Michael, All Angels and the Holy Cross, Wormegay|http://norfolkchurches.co.uk/wormegay/wormegay.htm
+0.5022649|52.7185363|All Saints, East Winch|http://www.norfolkchurches.co.uk/EastWinch/EastWinch.htm
+0.5617425|52.7435296|St Nicholas, Gayton|http://www.norfolkchurches.co.uk/Gayton/Gayton.htm
+0.5399271|52.7084378|St Cecilia, West Bilney|http://www.norfolkchurches.co.uk/WestBilney/WestBilney.htm
+0.5455069|52.6958308|St Mary Magdalene, Pentney|http://www.norfolkchurches.co.uk/Pentney/Pentney.htm
+0.578091|52.7150898|St Mary's Church, East Walton|http://www.norfolkchurches.co.uk/EastWalton/EastWalton.htm
+0.5836229|52.7365306|St Mary, Gayton Thorpe|http://www.norfolkchurches.co.uk/GaytonThorpe/GaytonThorpe.htm
+0.6650977|52.7751664|St Mary's Great Massingham|http://norfolkchurches.co.uk/greatmassingham/greatmassingham.htm
+0.6567866|52.7856725|St Andrew, Little Massingham|http://www.norfolkchurches.co.uk/LittleMassingham/LittleMassingham.htm
+0.6522948|52.8029172|St Lawrence, Harpley|http://www.norfolkchurches.co.uk/Harpley/Harpley.htm
+0.661645|52.8234209|St Martin, Houghton|http://www.norfolkchurches.co.uk/Houghton/Houghton.htm
+0.6660336|52.8576879|St Mary, Bagthorpe|http://www.norfolkchurches.co.uk/Bagthorpe/Bagthorpe.htm
+0.6856953|52.8710973|All Saints, Barmer|http://www.norfolkchurches.co.uk/Barmer/Barmer.htm
+0.6777166|52.8996239|All Saints, Stanhoe|http://www.norfolkchurches.co.uk/Stanhoe/Stanhoe.htm
+0.6847969|52.9663759|St Mary's, Burnham Deepdale|http://www.norfolkchurches.co.uk/BurnhamDeepdale/BurnhamDeepdale.htm

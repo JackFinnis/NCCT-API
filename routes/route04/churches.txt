@@ -1,0 +1,21 @@
+0.6252735|52.9011904|St Mary, Docking|http://www.norfolkchurches.co.uk/Docking/Docking.htm
+0.5796974|52.8821858|All Saints, Fring|http://www.norfolkchurches.co.uk/Fring/Fring.htm
+0.6271618|52.873846|All Saints, Bircham Newton|http://www.norfolkchurches.co.uk/BirchamNewton/BirchamNewton.htm
+0.6285138|52.8620913|St Mary's, Great Bircham|http://www.norfolkchurches.co.uk/GreatBircham/GreatBircham.htm
+0.5785029|52.8350759|St Mary, Anmer|http://www.norfolkchurches.co.uk/Anmer/Anmer.htm
+0.5578019|52.8102716|St Mary the Virgin, Flitcham|http://www.norfolkchurches.co.uk/Flitcham/Flitcham.htm
+0.5544349|52.7973499|St Mary, Hillington|http://www.norfolkchurches.co.uk/Hillington/Hillington.htm
+0.5381615|52.7836483|St Andrew's, Congham|http://www.norfolkchurches.co.uk/Congham/Congham.htm
+0.5179484|52.7847097|All Saints, Roydon|http://www.norfolkchurches.co.uk/Roydon/Roydon.htm
+0.5505026|52.7678369|St Botolph, Grimston|http://www.norfolkchurches.co.uk/Grimston/Grimston.htm
+0.5147173|52.7411819|All Saints, Ashwicken|http://www.norfolkchurches.co.uk/Ashwicken/Ashwicken.htm
+0.4599141|52.7163137|St Mary, Middleton|http://www.norfolkchurches.co.uk/Middleton/Middleton.htm
+0.4360746|52.7158588|All Saint's North Runcton|http://norfolkchurches.co.uk/northruncton/northruncton.htm
+0.4150948|52.7163647|St Mary, West Winch|http://www.norfolkchurches.co.uk/WestWinch/WestWinch.htm
+0.3621158|52.7009341|St Germain, Wiggenhall St Germans|http://www.norfolkchurches.co.uk/WiggenhallStGermans/WiggenhallStGermans.htm
+0.3407433|52.7041839|St Mary The Virgin, Wiggenhall St Mary's|http://norfolkchurches.co.uk/wiggenhallstmary/wiggenhallstmary.htm
+0.363141|52.676973|St Mary Magdalene, Wiggenhall|http://norfolkchurches.co.uk/magdalen/magdalen.htm
+0.3949245|52.6744034|St Peter and St Paul, Watlington|http://www.norfolkchurches.co.uk/Watlington/Watlington.htm
+0.3899464|52.6595166|St James, Runcton Holme|http://www.norfolkchurches.co.uk/RunctonHolme/RunctonHolme.htm
+0.3950411|52.6186121|St Mary's, Wimbotsham|http://www.norfolkchurches.co.uk/Wimbotsham/Wimbotsham.htm
+0.4043793|52.6242636|Holy Trinity, Stow Bardoph|http://norfolkchurches.co.uk/stowbardolph/stowbardolph.htm

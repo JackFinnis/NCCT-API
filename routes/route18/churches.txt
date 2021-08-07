@@ -1,0 +1,26 @@
+0.8886458|52.6724489|St Peter and St Paul, Scarning|http://www.norfolkchurches.co.uk/Scarning/Scarning.htm
+0.8979805|52.7020198|St Mary's, Gressenhall|http://www.norfolkchurches.co.uk/Gressenhall/Gressenhall.htm
+0.9217371|52.7289705|St Mary Magdalene, Beetley|http://www.norfolkchurches.co.uk/Beetley/Beetley.htm
+0.8947004|52.7388311|St Mary, East Bilney|http://www.norfolkchurches.co.uk/EastBilney/EastBilney.htm
+0.944611|52.7548325|St Mary's, North Elmham|http://www.norfolkchurches.co.uk/NorthElmham/NorthElmham.htm
+0.9650098|52.7912005|St Andrew's, Guist|http://www.norfolkchurches.co.uk/Guist/Guist.htm
+0.9816166|52.8106462|All Saints', Wood Norton|http://www.norfolkchurches.co.uk/WoodNorton/WoodNorton.htm
+0.9918652|52.8519236|St Edmund, Swanton Novers|http://www.norfolkchurches.co.uk/SwantonNovers/SwantonNovers.htm
+1.027517|52.8690875|St Maurice, Briningham|http://www.norfolkchurches.co.uk/Briningham/Briningham.htm
+1.0247514|52.84716|St Peter's, Melton Constable|http://www.norfolkchurches.co.uk/MeltonConstable/MeltonConstable.htm
+1.0590381|52.8535095|All Saints', Briston|http://www.norfolkchurches.co.uk/Briston/Briston.htm
+1.1396351|52.8300132|St Andrew's, Saxthorpe|http://www.norfolkchurches.co.uk/Saxthorpe/Saxthorpe.htm
+1.1824557|52.8341784|St Mary's, Itteringham|http://www.norfolkchurches.co.uk/Itteringham/Itteringham.htm
+1.1797029|52.8550675|St Andrew, Little Barningham|http://www.norfolkchurches.co.uk/LittleBarningham/LittleBarningham.htm
+1.215327|52.8587003|St Andrew's, Wickmere|http://www.norfolkchurches.co.uk/Wickmere/Wickmere.htm
+1.2355322|52.8582253|St Mary's, Aldborough|http://www.norfolkchurches.co.uk/Aldborough/Aldborough.htm
+1.255462|52.8537632|All Saints', Thwaite|http://www.norfolkchurches.co.uk/Thwaite/Thwaite.htm
+1.2371459|52.8391667|Our Lady and St Margaret, Calthorpe|http://www.norfolkchurches.co.uk/Calthorpe/Calthorpe.htm
+1.2626448|52.8346918|St Mary's, Erpingham|http://www.norfolkchurches.co.uk/Erpingham/Erpingham.htm
+1.2937976|52.8322618|St Giles, Colby|http://www.norfolkchurches.co.uk/Colby/Colby.htm
+1.286561|52.8170507|St Botolph, Banningham|http://www.norfolkchurches.co.uk/Banningham/Banningham.htm
+1.3016394|52.7969202|St Peter and St Paul, Tuttington|http://www.norfolkchurches.co.uk/Tuttington/Tuttington.htm
+1.3289224|52.7826718|All Saints', Skeyton|http://www.norfolkchurches.co.uk/Skeyton/Skeyton.htm
+1.3564793|52.7642269|All Saints', Scottow|http://www.norfolkchurches.co.uk/Scottow/Scottow.htm
+1.4196657|52.7531588|St Mary the Virgin, Tunstead|http://www.norfolkchurches.co.uk/Tunstead/Tunstead.htm
+1.42709|52.7389978|St Swithin's, Ashmanhaugh|http://www.norfolkchurches.co.uk/Ashmanhaugh/Ashmanhaugh.htm

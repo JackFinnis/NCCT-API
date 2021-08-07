@@ -1,0 +1,32 @@
+0.6762089|52.5236343|St Peter's Church, Ickburgh|http://www.norfolkchurches.co.uk/Ickburgh/Ickburgh.htm
+0.6219359|52.5414308|St Michael, Didlington|http://www.norfolkchurches.co.uk/Didlington/Didlington.htm
+0.7011856|52.5571183|St Mary's,  Bodney|http://www.norfolkchurches.co.uk/Bodney/Bodney.htm
+0.6923451|52.5677362|All Saint's, Hilborough|http://www.norfolkchurches.co.uk/Hilborough/Hilborough.htm
+0.7334559|52.5828602|St Michael, Great Cressingham|http://www.norfolkchurches.co.uk/GreatCressingham/GreatCressingham.htm
+0.740263|52.6042601|All Saints, South Pickenham|http://www.norfolkchurches.co.uk/SouthPickenham/SouthPickenham.htm
+0.7548177|52.6284108|St Andrew, North Pickenham|http://www.norfolkchurches.co.uk/NorthPickenham/NorthPickenham.htm
+0.690273|52.6488263|St Peter and St Paul, Swaffham|http://www.norfolkchurches.co.uk/Swaffham/Swaffham.htm
+0.734596|52.6695219|St Mary's, Sporle|http://www.norfolkchurches.co.uk/Sporle/Sporle.htm
+0.7553885|52.6830134|St Margaret, Little Dunham|http://www.norfolkchurches.co.uk/LittleDunham/LittleDunham.htm
+0.7717678|52.6978969|St Andrew, Great Dunham|http://www.norfolkchurches.co.uk/GreatDunham/GreatDunham.htm
+0.7085584|52.7065047|All Saints, Newton by Castle Acre|http://www.norfolkchurches.co.uk/newtoncastleacre/newton.htm
+0.7268616|52.721556|St Nicholas, West Lexham|http://www.norfolkchurches.co.uk/WestLexham/WestLexham.htm
+0.7524311|52.7203414|St Andrew, East Lexham|http://www.norfolkchurches.co.uk/EastLexham/EastLexham.htm
+0.7928893|52.723831|All Saint's, Litcham|http://www.norfolkchurches.co.uk/Litcham/Litcham.htm
+0.7718675|52.7654612|St Andrew, Wellingham|http://www.norfolkchurches.co.uk/Wellingham/Wellingham.htm
+0.7872633|52.7843957|St Martin, South Raynham|http://www.norfolkchurches.co.uk/SouthRaynham/SouthRaynham.htm
+0.7863192|52.7951575|St Mary, East Raynham|http://www.norfolkchurches.co.uk/EastRaynham/EastRaynham.htm
+0.7709338|52.8039813|All Saints', Helhoughton|http://www.norfolkchurches.co.uk/Helhoughton/Helhoughton.htm
+0.7682087|52.8203082|St Margaret's Church, Tatterford|http://www.norfolkchurches.co.uk/Tatterford/Tatterford.htm
+0.7887437|52.8361674|St Peter, Dunton|http://www.norfolkchurches.co.uk/Dunton/Dunton.htm
+0.8000519|52.8314804|St Nicholas, Shereford|http://www.norfolkchurches.co.uk/Shereford/Shereford.htm
+0.8196856|52.8523466|All Saints', Sculthorpe|http://www.norfolkchurches.co.uk/Sculthorpe/Sculthorpe.htm
+0.827333|52.8671841|The Assumption, West Barsham|http://www.norfolkchurches.co.uk/WestBarsham/WestBarsham.htm
+0.8454329|52.8668982|All Saints, East Barsham|http://www.norfolkchurches.co.uk/EastBarsham/EastBarsham.htm
+0.8449837|52.8782827|All Saint's, North Barsham|http://www.norfolkchurches.co.uk/NorthBarsham/NorthBarsham.htm
+0.8573764|52.8815801|St Giles, Houghton|http://www.norfolkchurches.co.uk/Houghton/Houghton.htm
+0.8753271|52.8918862|St Mary, Little Walsingham|http://www.norfolkchurches.co.uk/littlewalsinghamstmary/littlewalsinghamstmary.htm
+0.880434|52.9011804|St Peter, Great Walsingham|http://www.norfolkchurches.co.uk/GreatWalsingham/GreatWalsingham.htm
+0.8865326|52.9237676|All Saints', Wighton|http://www.norfolkchurches.co.uk/Wighton/Wighton.htm
+0.8897115|52.9377628|St Mary Magdalene, Warham|http://www.norfolkchurches.co.uk/warhammarymagdelene/warhammarymagdelene.htm
+0.853402|52.9538643|St Nicholas, Wells next the sea|http://www.norfolkchurches.co.uk/wellscofe/wellscofe.htm

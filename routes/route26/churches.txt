@@ -1,0 +1,12 @@
+1.3141611|52.6931467|The Old Rectory, Buxton Rd, Spixworth, Norwich NR10 3PR, UK|http://www.norfolkchurches.co.uk/spixworth/spixworth.htm
+1.3012555|52.6322708|St. Martin at Palace Centre, 15 St Martin At Palace Plain, Norwich NR3 1RW, UK|http://www.norfolkchurches.co.uk/norwichmartinpalaceplain/norwichmartinpalaceplain.htm
+1.3255325|52.6643885|St Mary and St Margaret, Sprowston|http://www.norfolkchurches.co.uk/sprowstonmm/sprowstonmm.htm
+1.3387793|52.62675|St Andrew, Thorpe, St Andrew|http://www.norfolkchurches.co.uk/thorpesa/thorpesa.htm
+1.3154815|52.6132925|St Andrew, Trowse Newton|http://www.norfolkchurches.co.uk/TrowseNewton/TrowseNewton.htm
+1.297506|52.6068463|St John the Baptist, Lakenham|http://www.norfolkchurches.co.uk/lakenhamold/lakenhamold.htm
+1.2516269|52.6072471|St Andrew's, Eaton|http://www.norfolkchurches.co.uk/Eaton/Eaton.htm
+1.1802708|52.6331941|St Mary and St Walstan. Bawburgh|http://www.norfolkchurches.co.uk/bawburgh/bawburgh.htm
+1.2180507|52.6667733|St Edmund's, Costessey|http://www.norfolkchurches.co.uk/costesseycofe/costesseycofe.htm
+1.1950724|52.6790463|St Edmund's, Taverham|http://www.norfolkchurches.co.uk/Taverham/Taverham.htm
+1.2240188|52.6775632|St Margaret's, Drayton|http://www.norfolkchurches.co.uk/Drayton/Drayton.htm
+1.2516644|52.6487483|St Mary, Hellesdon|http://www.norfolkchurches.co.uk/hellesdonmary/hellesdonmary.htm

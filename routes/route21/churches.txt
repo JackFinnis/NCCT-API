@@ -1,0 +1,24 @@
+1.2936819|52.5831297|St Edmund, Caistor St Edmund|http://www.norfolkchurches.co.uk/CaistorStEdmund/CaistorStEdmund.htm
+1.2874163|52.5728546|St Remigius, Dunston|http://www.norfolkchurches.co.uk/Dunston/Dunston.htm
+1.2718539|52.562093|St Peter's, Swainsthorpe|http://www.norfolkchurches.co.uk/Swainsthorpe/Swainsthorpe.htm
+1.2975443|52.5593535|Holy Cross Church, Stoke HC|http://www.norfolkchurches.co.uk/stokeholycross/stokeholycross.htm
+1.3120243|52.5429337|All Saint's, Shotesham|http://www.norfolkchurches.co.uk/shotesham1/shotesham1.htm
+1.2986422|52.5413143|St Mary, Shotesham|http://www.norfolkchurches.co.uk/shotesham2/shotesham2.htm
+1.2869812|52.5280534|St Mary, Saxlingham Nethergate|http://www.norfolkchurches.co.uk/SaxlinghamNethergate/SaxlinghamNethergate.htm
+1.3660774|52.5021862|All Saint's, Woodton|http://www.norfolkchurches.co.uk/Woodton/Woodton.htm
+1.4370728|52.5031042|St Mary's, Thwaite St Mary|http://www.norfolkchurches.co.uk/ThwaiteStMary/ThwaiteStMary.htm
+1.4043742|52.4897792|St Peter's, Hedenham|http://www.norfolkchurches.co.uk/Hedenham/Hedenham.htm
+1.3644828|52.4911959|St Andrew's, Bedingham Green|http://www.norfolkchurches.co.uk/bedingham/bedingham.htm
+1.335863|52.487016|St Margaret, Topcroft|http://www.norfolkchurches.co.uk/Topcroft/Topcroft.htm
+1.2998884|52.5024349|St Margaret, Hempnell|http://www.norfolkchurches.co.uk/hempnall/hempnall.htm
+1.2798136|52.4922057|St Catherine, Fitton|http://www.norfolkchurches.co.uk/fritton/fritton.htm
+1.2651795|52.4861889|St John the Baptist, Morningthorpe|http://www.norfolkchurches.co.uk/Morningthorpe/Morningthorpe.htm
+1.2686992|52.4723476|St Mary's Church, Shelton|http://www.norfolkchurches.co.uk/Shelton/Shelton.htm
+1.2714136|52.4633799|St Margaret, Hardwick|http://www.norfolkchurches.co.uk/Hardwick/Hardwick.htm
+1.2301583|52.4287468|St Mary Magdalene, Pulham Market|http://www.norfolkchurches.co.uk/PulhamMarket/PulhamMarket.htm
+1.2519675|52.4207873|St Mary, Pulham St Mary|http://www.norfolkchurches.co.uk/PulhamStMary/PulhamStMary.htm
+1.2289275|52.3978811|St Mary's, Rushall|http://www.norfolkchurches.co.uk/Rushall/Rushall.htm
+1.1849348|52.3969465|All Saints', Dickleburgh|http://www.norfolkchurches.co.uk/Dickleburgh/Dickleburgh.htm
+1.1612494|52.3876952|St Andrew's Thelveton|http://www.norfolkchurches.co.uk/thelveton/thelveton.htm
+1.1678625|52.4001451|St George's, Shrimpling|http://www.norfolkchurches.co.uk/shimpling/shimpling.htm
+1.1403297|52.4051809|St Mary, Burston|http://www.norfolkchurches.co.uk/Burston/Burston.htm

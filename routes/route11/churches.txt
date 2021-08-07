@@ -1,0 +1,20 @@
+1.3928868|52.8471234|St Nicholas, Swafield|http://www.norfolkchurches.co.uk/swaffield/swaffield.htm
+1.3667696|52.8494929|St Giles, Bradfield|http://www.norfolkchurches.co.uk/Bradfield/Bradfield.htm
+1.3526506|52.8818442|St James, Southrepps|http://www.norfolkchurches.co.uk/Southrepps/Southrepps.htm
+1.3342537|52.8697742|St Margaret, Thorpe Market|http://www.norfolkchurches.co.uk/ThorpeMarket/ThorpeMarket.htm
+1.2982907|52.8809657|St Mary's, Roughton|http://www.norfolkchurches.co.uk/Roughton/Roughton.htm
+1.2657978|52.9045279|St Margaret's, Felbrigg|http://www.norfolkchurches.co.uk/Felbrigg/Felbrigg.htm
+1.2438466|52.9140401|St John the Baptist, Aylmerton|http://www.norfolkchurches.co.uk/Aylmerton/Aylmerton.htm
+1.2213112|52.9011548|All Saints', Gresham|http://www.norfolkchurches.co.uk/Gresham/Gresham.htm
+1.1595132|52.9065517|All Saints', Bodham|http://www.norfolkchurches.co.uk/Bodham/Bodham.htm
+1.0931534|52.9070184|St Andrew, Holt|http://www.norfolkchurches.co.uk/Holt/Holt.htm
+1.0624689|52.9089855|St Andrew's. Letheringsett|http://www.norfolkchurches.co.uk/letheringsett/letheringsett.htm
+1.0398003|52.931445|St Martin, Glanford|http://www.norfolkchurches.co.uk/glandford/glandford.htm
+0.9870172|52.9311776|St Andrew and St Mary, Langham|http://www.norfolkchurches.co.uk/Langham/Langham.htm
+0.9472822|52.9409638|All Saints', Cockthorpe|http://www.norfolkchurches.co.uk/Cockthorpe/Cockthorpe.htm
+0.9472715|52.9209931|St Mary, Binham|http://www.norfolkchurches.co.uk/Binham/Binham.htm
+0.948119|52.8892661|St Martin's Church|http://www.norfolkchurches.co.uk/hindringham/hindringham.htm
+0.8906314|52.8733955|St Mary the Virgin, Great Snoring|http://www.norfolkchurches.co.uk/GreatSnoring/GreatSnoring.htm
+0.8994719|52.8557262|S Andrew's, Little Snoring|http://www.norfolkchurches.co.uk/LittleSnoring/LittleSnoring.htm
+0.9206163|52.8475109|All Saints', Kettlestone|http://www.norfolkchurches.co.uk/Kettlestone/Kettlestone.htm
+0.8475378|52.8311484|Fakenham, St Peter and St Paul|

@@ -1,0 +1,24 @@
+0.8432656|52.8019222|St Mary, Colkirk|http://www.norfolkchurches.co.uk/Colkirk/Colkirk.htm
+0.8144694|52.812792|All Saints', Toftrees|http://www.norfolkchurches.co.uk/Toftrees/Toftrees.htm
+0.8437091|52.7739455|St Mary, Whissonsett|http://www.norfolkchurches.co.uk/Whissonsett/Whissonsett.htm
+0.868753|52.7712507|St Edmund, Horningtoft|http://www.norfolkchurches.co.uk/Horningtoft/Horningtoft.htm
+0.80644|52.7551748|St Mary's, Tittleshall|http://www.norfolkchurches.co.uk/Tittleshall/Tittleshall.htm
+0.8455557|52.7401676|St John Baptist, Mileham|http://www.norfolkchurches.co.uk/Mileham/Mileham.htm
+0.8017177|52.7028541|St Mary the Virgin, Beeston|http://www.norfolkchurches.co.uk/Beeston/Beeston.htm
+0.8077687|52.6830454|All Saints', Great Fransham|http://www.norfolkchurches.co.uk/GreatFransham/GreatFransham.htm
+0.811795|52.6748104|St Mary, Little Fransham|http://www.norfolkchurches.co.uk/LittleFransham/LittleFransham.htm
+0.7759739|52.6536358|All Saints', Necton|http://www.norfolkchurches.co.uk/Necton/Necton.htm
+0.7871453|52.6335591|St Andrew's, Holme Hale|http://www.norfolkchurches.co.uk/HolmeHale/HolmeHale.htm
+0.7806335|52.6035441|St Nicholas, Ashill|http://www.norfolkchurches.co.uk/Ashill/Ashill.htm
+0.8019102|52.5829906|St George's, Saham Toney|http://www.norfolkchurches.co.uk/SahamToney/SahamToney.htm
+0.7786072|52.5643033|All Saint's, Threxton|http://www.norfolkchurches.co.uk/Threxton/Threxton.htm
+0.7604365|52.5662079|St Andrew's, Little Cressingham|http://www.norfolkchurches.co.uk/LittleCressingham/LittleCressingham.htm
+0.8337043|52.5727158|St Mary's, Watton|http://www.norfolkchurches.co.uk/Watton/Watton.htm
+0.817854|52.5471595|St Peter's Church, Merton|http://www.norfolkchurches.co.uk/Merton/Merton.htm
+0.8444136|52.5368214|St Martin's Church. Thompson|http://www.norfolkchurches.co.uk/thompson/thompson.htm
+0.8901614|52.523149|St Botolph's, Stow Bedon|http://www.norfolkchurches.co.uk/StowBedon/StowBedon.htm
+0.8845824|52.5143355|St Margaret's, Breckles|http://www.norfolkchurches.co.uk/Breckles/Breckles.htm
+0.8718794|52.4924654|Holy Trinity Church, Great Hockham|http://www.norfolkchurches.co.uk/hockham/hockham.htm
+0.8667269|52.4738785|St Andrew's, Illington|http://www.norfolkchurches.co.uk/Illington/Illington.htm
+0.818333|52.4807664|St Ethelbert's, Wretham|http://www.norfolkchurches.co.uk/eastwretham/eastwretham.htm
+0.7556267|52.446088|All Saints', Croxton|http://www.norfolkchurches.co.uk/Croxton/Croxton.htm

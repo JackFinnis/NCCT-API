@@ -1,0 +1,15 @@
+1.3962149|52.8634681|St Botolph, Trunch|http://www.norfolkchurches.co.uk/Trunch/Trunch.htm
+1.4259124|52.8562989|St Peter and St Paul, Knapton|http://www.norfolkchurches.co.uk/Knapton/Knapton.htm
+1.4488373|52.8575525|St Margaret's, Paston|http://www.norfolkchurches.co.uk/Paston/Paston.htm
+1.4672543|52.8506075|St Andrew, Bacton|http://www.norfolkchurches.co.uk/Bacton/Bacton.htm
+1.5029523|52.8315575|All Saint's, Walcott|http://www.norfolkchurches.co.uk/Walcott/Walcott.htm
+1.5307298|52.8259088|St Mary the Virgin, Happisburgh|http://www.norfolkchurches.co.uk/Happisburgh/Happisburgh.htm
+1.5471141|52.8018165|All Saints', Lessingham|http://www.norfolkchurches.co.uk/Lessingham/Lessingham.htm
+1.5635562|52.8003895|St Andrew, Hempstead|http://www.norfolkchurches.co.uk/Hempstead/Hempstead.htm
+1.6021193|52.7845544|St Margaret of Antioch, Sea Palling|http://www.norfolkchurches.co.uk/SeaPalling/SeaPalling.htm
+1.6171197|52.778765|St John's, Waxham|http://www.norfolkchurches.co.uk/Waxham/Waxham.htm
+1.6401971|52.7494263|All Saints', Horsey|http://www.norfolkchurches.co.uk/Horsey/Horsey.htm
+1.6636908|52.7172299|St Mary's Church, East Somerton|http://www.norfolkchurches.co.uk/somertoneast/somertoneast.htm
+1.6870891|52.7154926|All Saints', Winterton|http://www.norfolkchurches.co.uk/Winterton/Winterton.htm
+1.6901895|52.6967103|St Mary's, Hemsby|http://www.norfolkchurches.co.uk/Hemsby/Hemsby.htm
+1.693651|52.6709097|St Margaret's, Ormesby|http://www.norfolkchurches.co.uk/ormesbymargaret/ormesbymargaret.htm

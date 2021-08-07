@@ -1,0 +1,31 @@
+1.1150426|52.5675667|I2 Station Rd, Wymondham NR18 0JX, UK|
+1.242178|52.5909402|Intwood Road, Intwood, Norwich NR4 6TG, UK|http://www.norfolkchurches.co.uk/intwood/intwood.htm
+1.1920929|52.5779777|St Peter's Church, Ketteringham|http://www.norfolkchurches.co.uk/Ketteringham/Ketteringham.htm
+1.2154451|52.5730054|St Mary's, East Carleton|http://www.norfolkchurches.co.uk/EastCarleton/EastCarleton.htm
+1.20217|52.5588441|All Saints', Hethel|http://www.norfolkchurches.co.uk/Hethel/Hethel.htm
+1.2136953|52.556388|St Nicholas, Bracon Ash|http://www.norfolkchurches.co.uk/BraconAsh/BraconAsh.htm
+1.1888664|52.5449358|All Saints', Wreningham|http://www.norfolkchurches.co.uk/Wreningham/Wreningham.htm
+1.1636319|52.5353044|All Saints', Ashwellthorpe|http://www.norfolkchurches.co.uk/Ashwellthorpe/Ashwellthorpe.htm
+1.2259216|52.5297446|St Michael, Flordon|http://www.norfolkchurches.co.uk/Flordon/Flordon.htm
+1.2046469|52.5229562|St Margaret, Hapton|http://www.norfolkchurches.co.uk/Hapton/Hapton.htm
+1.1723718|52.5279117|St Nicholas, Fundenhall|http://www.norfolkchurches.co.uk/Fundenhall/Fundenhall.htm
+1.1664214|52.5155521|All Saints', Tacolneston|http://www.norfolkchurches.co.uk/Tacolneston/Tacolneston.htm
+1.1298938|52.4914259|St Michael, Bunwell|http://www.norfolkchurches.co.uk/Bunwell/Bunwell.htm
+1.1142061|52.4905269|All Saints', Carlton Rode|http://www.norfolkchurches.co.uk/carletonrode/carletonrode.htm
+1.1415922|52.4657419|All Saints', Tibenham|http://www.norfolkchurches.co.uk/Tibenham/Tibenham.htm
+1.1550653|52.423713|St Mary the Virgin, Gissing|http://www.norfolkchurches.co.uk/Gissing/Gissing.htm
+1.1849727|52.4274792|St Mary's, Tivetshall St Mary|http://www.norfolkchurches.co.uk/tivetshallmary/tivetshallmary.htm
+1.1819411|52.4387166|St Margaret, Tivetshall, St Margaret|http://www.norfolkchurches.co.uk/tivetshallmargaret/tivetshallmargaret.htm
+1.173855|52.4754633|St Michael's, Aslacton|http://www.norfolkchurches.co.uk/Aslacton/Aslacton.htm
+1.1877167|52.4725878|St Michael's and All Angels, Great Moulton|http://www.norfolkchurches.co.uk/GreatMoulton/GreatMoulton.htm
+1.2084219|52.4803148|All Saints', Wacton|http://www.norfolkchurches.co.uk/Wacton/Wacton.htm
+1.1876109|52.4906572|St Peter, Forncett St Peter|http://www.norfolkchurches.co.uk/forncettpeter/forncettpeter.htm
+1.1903361|52.4996322|St Mary's, Forncett St Mary|http://www.norfolkchurches.co.uk/forncettmary/forncettmary.htm
+1.2257624|52.5024402|St Mary, Tharston|http://www.norfolkchurches.co.uk/Tharston/Tharston.htm
+1.2342523|52.4843281|St Mary's, Long Stratton|http://www.norfolkchurches.co.uk/LongStratton/LongStratton.htm
+1.244418|52.496917|St Michael's, Stratton St Michael|http://www.norfolkchurches.co.uk/StrattonStMichael/StrattonStMichael.htm
+1.2426559|52.5166428|St Mary's, Tasburgh|http://www.norfolkchurches.co.uk/Tasburgh/Tasburgh.htm
+1.261367|52.5399046|St Mary's, Newton Flotman|http://www.norfolkchurches.co.uk/NewtonFlotman/NewtonFlotman.htm
+1.2359488|52.5638935|St Mary Magdalene, Mulbarton|http://www.norfolkchurches.co.uk/Mulbarton/Mulbarton.htm
+1.2440031|52.5752226|St Mary, Swardeston|http://www.norfolkchurches.co.uk/Swardeston/Swardeston.htm
+1.2418949|52.591525|All Saints', Intwood|http://www.norfolkchurches.co.uk/Intwood/Intwood.htm

@@ -1,0 +1,24 @@
+1.2677246|52.5951428|B1113, Norwich NR4 6TY, UK|http://www.norfolkchurches.co.uk/keswick/keswick.htm
+1.3138073|52.693051|The Old Rectory, Buxton Rd, Spixworth, Norwich NR10 3PR, UK|http://www.norfolkchurches.co.uk/spixworth/spixworth.htm
+1.2450998|52.6061632|St Peter, Cringleford|http://www.norfolkchurches.co.uk/Cringleford/Cringleford.htm
+1.1893313|52.5993363|St Remigius, Hethersett|http://www.norfolkchurches.co.uk/Hethersett/Hethersett.htm
+1.220569|52.6258618|St Andrew's, Colney|http://www.norfolkchurches.co.uk/Colney/Colney.htm
+1.1799111|52.617749|All Saint's, Little Melton|http://www.norfolkchurches.co.uk/LittleMelton/LittleMelton.htm
+1.1608971|52.6113937|All Saints', Great Melton|http://www.norfolkchurches.co.uk/GreatMelton/GreatMelton.htm
+1.1197328|52.6113507|St Peter and St Paul, Wramplingham|http://www.norfolkchurches.co.uk/Wramplingham/Wramplingham.htm
+1.1406429|52.6309854|St Mary's, Marlingford|http://www.norfolkchurches.co.uk/Marlingford/Marlingford.htm
+1.1120613|52.6295149|St Botolph's, Barford|http://www.norfolkchurches.co.uk/Barford/Barford.htm
+1.1477681|52.6549567|St Peter's, Easton|http://www.norfolkchurches.co.uk/Easton/Easton.htm
+1.1552535|52.6825862|St Peter's, Ringland|http://www.norfolkchurches.co.uk/Ringland/Ringland.htm
+1.1264992|52.699261|All Saints', Weston Longville|http://www.norfolkchurches.co.uk/WestonLongville/WestonLongville.htm
+1.1508082|52.7077944|St Andrew's, Attlebridge|http://www.norfolkchurches.co.uk/Attlebridge/Attlebridge.htm
+1.1146527|52.7375903|St Mary's, Great Witchingham|http://www.norfolkchurches.co.uk/GreatWitchingham/GreatWitchingham.htm
+1.1328564|52.7389127|St Faith's, Little Witchingham|http://www.norfolkchurches.co.uk/LittleWitchingham/LittleWitchingham.htm
+1.1436996|52.7257173|St John the Baptist, Alderford|http://www.norfolkchurches.co.uk/Alderford/Alderford.htm
+1.1599216|52.7293039|St Margaret's, Swannington|http://www.norfolkchurches.co.uk/Swannington/Swannington.htm
+1.1706106|52.7484794|St Nicholas, Brandiston|http://www.norfolkchurches.co.uk/Brandiston/Brandiston.htm
+1.1859743|52.7435304|St Peter, Haveringland|http://www.norfolkchurches.co.uk/Haveringland/Haveringland.htm
+1.210421|52.7105612|St Margaret's, Felthorpe|http://www.norfolkchurches.co.uk/Felthorpe/Felthorpe.htm
+1.2490761|52.692521|All Saint's, Horsford|http://www.norfolkchurches.co.uk/Horsford/Horsford.htm
+1.2770547|52.6883164|St Mary and St Andrew, St Faiths|http://www.norfolkchurches.co.uk/horshamstfaith/horshamstfaith.htm
+1.3143777|52.6935462|St Peter, Spixworth|http://www.norfolkchurches.co.uk/Spixworth/Spixworth.htm

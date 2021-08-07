@@ -1,0 +1,16 @@
+0.6204914|52.4769564|St Mary's, Weeting|http://www.norfolkchurches.co.uk/Weeting/Weeting.htm
+0.5519483|52.4629691|St James, Wilton|http://www.norfolkchurches.co.uk/Wilton/Wilton.htm
+0.5378801|52.4627316|St Peter Hockwold|http://norfolkchurches.co.uk/hockwold/hockwold.htm
+0.5205673|52.4895293|St Nicholas, Feltwell|http://norfolkchurches.co.uk/feltwellstn/feltwellstn.htm
+0.550429|52.5246874|St George's, Methwold|http://www.norfolkchurches.co.uk/Methwold/Methwold.htm
+0.5878159|52.5428424|St Andrew's, Northwold|http://www.norfolkchurches.co.uk/Northwold/Northwold.htm
+0.5136672|52.5703978|All Saints', Stoke Ferry|http://www.norfolkchurches.co.uk/StokeFerry/StokeFerry.htm
+0.4929868|52.57106|All Saints', Wretton|http://www.norfolkchurches.co.uk/Wretton/Wretton.htm
+0.5081511|52.5913189|All Saints, Boughton|http://www.norfolkchurches.co.uk/Boughton/Boughton.htm
+0.4798051|52.5875425|St Margaret, Wereham|http://www.norfolkchurches.co.uk/Wereham/Wereham.htm
+0.4599383|52.591714|St Andrew, West Dereham|http://www.norfolkchurches.co.uk/WestDereham/WestDereham.htm
+0.3926751|52.5574533|All Saints, Hilgay|http://www.norfolkchurches.co.uk/Hilgay/Hilgay.htm
+0.3831895|52.5713038|St Mary's Fordham|http://norfolkchurches.co.uk/fordham/fordham.htm
+0.391097|52.5898645|St Michael's, Ryston|http://www.norfolkchurches.co.uk/Ryston/Ryston.htm
+0.3817865|52.5886584|St Mary's Denver|http://norfolkchurches.co.uk/denver/denver.htm
+0.3796185|52.6037377|St Edmund's, Downham Market|http://norfolkchurches.co.uk/downham/downhammarketcofe.htm

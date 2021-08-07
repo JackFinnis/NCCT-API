@@ -1,0 +1,33 @@
+0.6844353|52.9672512|St Mary's, Burnham Deepdale|http://www.norfolkchurches.co.uk/BurnhamDeepdale/BurnhamDeepdale.htm
+0.7947237|52.9579025|St Withburga's, Holkham|http://www.norfolkchurches.co.uk/Holkham/Holkham.htm
+0.7225432|52.9452652|St Mary's, Burnham Westgate|http://www.norfolkchurches.co.uk/BurnhamWestgate/BurnhamWestgate.htm
+0.7295131|52.9512479|St Margaret, Burnham Norton|http://www.norfolkchurches.co.uk/BurnhamNorton/BurnhamNorton.htm
+0.7418298|52.9523467|St Clement, Burnham Overy Town|http://norfolkchurches.co.uk/burnhamovery/burnhamovery.htm
+0.7288862|52.9458694|All Saints', Burnham Ulph|http://www.norfolkchurches.co.uk/BurnhamUlph/BurnhamUlph.htm
+0.7546703|52.941861|All Saints', Burnham Thorpe|http://www.norfolkchurches.co.uk/BurnhamThorpe/BurnhamThorpe.htm
+0.7556674|52.9056678|St Mary, North Creake|http://www.norfolkchurches.co.uk/NorthCreake/NorthCreake.htm
+0.7565686|52.8924104|St Mary, South Creake|http://www.norfolkchurches.co.uk/SouthCreake/SouthCreake.htm
+0.7998189|52.8868075|All Saints', Waterden|http://www.norfolkchurches.co.uk/Waterden/Waterden.htm
+0.7212493|52.8608631|St Mary's, Syderstone|http://www.norfolkchurches.co.uk/Syderstone/Syderstone.htm
+0.7466551|52.8295021|St Andrew, Tattersett|http://www.norfolkchurches.co.uk/Tattersett/Tattersett.htm
+0.7104345|52.8213207|St Mary, East Rudham|http://www.norfolkchurches.co.uk/EastRudham/EastRudham.htm
+0.7024737|52.8166135|St Peter's, West Rudham|http://www.norfolkchurches.co.uk/WestRudham/WestRudham.htm
+0.7498046|52.7672702|St Peter's, Weasenham|http://norfolkchurches.co.uk/weasenhamstpeter/weasenhamstpeter.htm
+0.7416506|52.7609785|All Saints, Weasenham|http://norfolkchurches.co.uk/weasenhamallsaints/weasenhamallsaints.htm
+0.7107012|52.751298|St Mary, Rougham|http://www.norfolkchurches.co.uk/Rougham/Rougham.htm
+0.6863038|52.702573|St James, Castle Acre|http://www.norfolkchurches.co.uk/CastleAcre/CastleAcre.htm
+0.6772487|52.6973587|St George, South Acre|http://www.norfolkchurches.co.uk/SouthAcre/SouthAcre.htm
+0.6345909|52.7056455|All Saint's, West Acre|http://www.norfolkchurches.co.uk/WestAcre/WestAcre.htm
+0.5821438|52.6866023|All Saints', Narborough|http://www.norfolkchurches.co.uk/Narborough/Narborough.htm
+0.5250414|52.6587874|Holy Trinity, Marham|http://www.norfolkchurches.co.uk/Marham/Marham.htm
+0.4839566|52.652029|All Saints', Shouldham|http://www.norfolkchurches.co.uk/Shouldham/Shouldham.htm
+0.4929286|52.6301348|St Martin, Fincham|http://www.norfolkchurches.co.uk/Fincham/Fincham.htm
+0.524429|52.6204332|St Mary, Barton Bendish|http://norfolkchurches.co.uk/bartonbendishmary/bartonbendishmary.htm
+0.5278515|52.6220745|St Andrew, Barton Bendish|http://www.norfolkchurches.co.uk/bartonbendishandrew/bartonbendishandrew.htm
+0.5846424|52.6179811|St Mary, Beachamwell|http://www.norfolkchurches.co.uk/beachamwellmary/beachamwellmary.htm
+0.6430444|52.606561|All Saints', Cockley Cley|http://www.norfolkchurches.co.uk/CockleyCley/CockleyCley.htm
+0.6002164|52.5890961|St George, Gooderston|http://www.norfolkchurches.co.uk/gooderstone/gooderstone.htm
+0.5727276|52.5830339|St John The Evangelist, Oxborough|http://www.norfolkchurches.co.uk/oxboroughcofe/oxboroughcofe.htm
+0.6019065|52.560674|All Saints, Foulden|http://www.norfolkchurches.co.uk/Foulden/Foulden.htm
+0.6262204|52.5224695|St Mary, Cranwich|http://www.norfolkchurches.co.uk/Cranwich/Cranwich.htm
+0.6516322|52.5127576|St Leonard's, Mundford|http://www.norfolkchurches.co.uk/Mundford/Mundford.htm

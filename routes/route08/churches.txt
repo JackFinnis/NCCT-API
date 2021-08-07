@@ -1,0 +1,21 @@
+1.3958716|52.8634764|St Botolph, Trunch|http://www.norfolkchurches.co.uk/Trunch/Trunch.htm
+0.8506746|52.9600713|St Nicholas, Wells next the Sea|http://www.norfolkchurches.co.uk/wellscofe/wellscofe.htm
+0.8968843|52.9369168|All Saints', Warham|http://www.norfolkchurches.co.uk/warhamallsaints/warhamallsaints.htm
+0.8896316|52.9377444|St Mary Magdalene, Warham|http://www.norfolkchurches.co.uk/warhammarymagdelene/warhammarymagdelene.htm
+0.9376621|52.9482481|St John the Baptist, Stiffkey|http://www.norfolkchurches.co.uk/Stiffkey/Stiffkey.htm
+0.9882444|52.9545138|All Saints', Morston|http://www.norfolkchurches.co.uk/Morston/Morston.htm
+1.0250395|52.9515922|St Nicholas, Blakeney|http://www.norfolkchurches.co.uk/Blakeney/Blakeney.htm
+1.04021|52.9443519|St Mary, Wiveton|http://www.norfolkchurches.co.uk/Wiveton/Wiveton.htm
+1.0481065|52.9468862|St Margaret, Cley|http://www.norfolkchurches.co.uk/Cley/Cley.htm
+1.0888712|52.9510492|St Nicholas, Salthouse|http://www.norfolkchurches.co.uk/Salthouse/Salthouse.htm
+1.106316|52.9326005|St Mary, Kelling|http://www.norfolkchurches.co.uk/Kelling/Kelling.htm
+1.1417911|52.9432689|All Saints', Weyborne|http://www.norfolkchurches.co.uk/weybourne/weybourne.htm
+1.2343012|52.9413517|All Saint's, Beeston Regis|http://www.norfolkchurches.co.uk/BeestonRegis/BeestonRegis.htm
+1.241468|52.9386619|Holy Trinity, West Runton|http://www.norfolkchurches.co.uk/WestRunton/WestRunton.htm
+1.3012244|52.931662|St Peter and St Paul, Cromer|http://www.norfolkchurches.co.uk/cromer/cromercofe.htm
+1.3314394|52.9182215|St Martin's, Overstrand|http://www.norfolkchurches.co.uk/Overstrand/Overstrand.htm
+1.3358597|52.9026281|St Mary's, Northrepps|http://www.norfolkchurches.co.uk/Northrepps/Northrepps.htm
+1.387541|52.8986438|Beheading of St John the Baptist, Trimingham|http://www.norfolkchurches.co.uk/Trimingham/Trimingham.htm
+1.3934688|52.8785159|All Saint's, Gimingham|http://www.norfolkchurches.co.uk/Gimingham/Gimingham.htm
+1.3962149|52.8634681|St Botolph, Trunch|http://www.norfolkchurches.co.uk/Trunch/Trunch.htm
+1.1891738|52.932080|All Saints', Upper Sheringham|http://www.norfolkchurches.co.uk/UpperSheringham/UpperSheringham.htm

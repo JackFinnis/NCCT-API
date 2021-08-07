@@ -1,0 +1,22 @@
+1.2894338|52.7393301|St Margaret's, Stratton Strawless|http://www.norfolkchurches.co.uk/StrattonStrawless/StrattonStrawless.htm
+1.2606087|52.7538967|St Botolph, Hevingham|http://www.norfolkchurches.co.uk/Hevingham/Hevingham.htm
+1.2550136|52.7666865|All Saints', Marsham|http://www.norfolkchurches.co.uk/Marsham/Marsham.htm
+1.1619946|52.7702318|St Agnes, Cawston|http://www.norfolkchurches.co.uk/Cawston/Cawston.htm
+1.134639|52.803193|St Peter and St Paul, Heydon|http://www.norfolkchurches.co.uk/Heydon/Heydon.htm
+1.0984735|52.7999748|St Andrew, Wood Dalling|http://www.norfolkchurches.co.uk/WoodDalling/WoodDalling.htm
+1.1282275|52.7808045|St Peter and St Paul, Salle|http://www.norfolkchurches.co.uk/Salle/Salle.htm
+1.1131405|52.7625944|St Mary's, Reepham|http://www.norfolkchurches.co.uk/Reepham/Reepham.htm
+1.0488981|52.7751474|St Andrew, Themelthorpe|http://www.norfolkchurches.co.uk/Themelthorpe/Themelthorpe.htm
+1.0207834|52.7547708|St Thomas', Foxley|http://www.norfolkchurches.co.uk/Foxley/Foxley.htm
+1.0137882|52.7244491|St Mary's, Bylaugh|http://www.norfolkchurches.co.uk/Bylaugh/Bylaugh.htm
+1.0646885|52.7350418|St Mary the Virgin, Sparham|http://www.norfolkchurches.co.uk/Sparham/Sparham.htm
+1.0620959|52.7189216|St Margaret's, Lyng|http://www.norfolkchurches.co.uk/lyngmargaret/lyngmargaret.htm
+1.0355907|52.7078344|St Mary's, Elsing|http://www.norfolkchurches.co.uk/Elsing/Elsing.htm
+1.0630581|52.6775363|St Michael's, Hockering|http://www.norfolkchurches.co.uk/Hockering/Hockering.htm
+1.0822413|52.6615053|All Saint's, East Tuddenham|http://www.norfolkchurches.co.uk/EastTuddenham/EastTuddenham.htm
+1.1246846|52.6583556|St Andrew, Honingham|http://www.norfolkchurches.co.uk/Honingham/Honingham.htm
+1.1090931|52.6409622|St Andrew's, Colton|http://www.norfolkchurches.co.uk/Colton/Colton.htm
+1.0752331|52.6284932|St Peter and St Paul,  Barnham Broom|http://www.norfolkchurches.co.uk/BarnhamBroom/BarnhamBroom.htm
+1.0577421|52.6311982|All Saints', Brandon Parva|http://www.norfolkchurches.co.uk/BrandonParva/BrandonParva.htm
+1.0851571|52.6104586|St Mary's, Carleton Forehoe|http://www.norfolkchurches.co.uk/carltonforehoe/carltonforehoe.htm
+1.1078077|52.570686|St Mary and St Thomas, Wymondham|http://www.norfolkchurches.co.uk/wymondham/wymondhamcofe.htm

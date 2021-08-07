@@ -1,0 +1,27 @@
+1.343747|52.8463217|St Mary's, Antingham|http://www.norfolkchurches.co.uk/Antingham/Antingham.htm
+0.9413306|52.8172517|All Saints', Stibbard|http://www.norfolkchurches.co.uk/Stibbard/Stibbard.htm
+0.960998|52.8555679|St Mary's, Barney|http://www.norfolkchurches.co.uk/Barney/Barney.htm
+0.9459562|52.8653913|St Andrew's, Thursford|http://www.norfolkchurches.co.uk/Thursford/Thursford.htm
+0.9876314|52.8775289|St Mary's, Gunthorpe|http://www.norfolkchurches.co.uk/Gunthorpe/Gunthorpe.htm
+0.9878772|52.8909399|All Saints', Bale|http://www.norfolkchurches.co.uk/Bale/Bale.htm
+0.9822338|52.9115955|St Andrew's, Field Dalling|http://www.norfolkchurches.co.uk/FieldDalling/FieldDalling.htm
+1.0122606|52.9159949|St Margaret's, Saxlingham|http://www.norfolkchurches.co.uk/Saxlingham/Saxlingham.htm
+1.0167185|52.8896834|All Saints', Sharrington|http://www.norfolkchurches.co.uk/Sharrington/Sharrington.htm
+1.027619|52.8810601|St Andrew, Brinton|http://www.norfolkchurches.co.uk/Brinton/Brinton.htm
+1.0444092|52.8850864|All Saints', Thornage|http://www.norfolkchurches.co.uk/Thornage/Thornage.htm
+1.0535366|52.8742088|St Mary's, Stody|http://www.norfolkchurches.co.uk/Stody/Stody.htm
+1.0663683|52.8777831|St Lawrence, Hunworth|http://www.norfolkchurches.co.uk/Hunworth/Hunworth.htm
+1.1090642|52.865259|St Peter and St Paul, Edgefield|http://www.norfolkchurches.co.uk/Edgefield/Edgefield.htm
+1.127141|52.8898676|All Saints, Hempstead|http://www.norfolkchurches.co.uk/Hempstead/Hempstead.htm
+1.1606544|52.8875493|St Mary's, Baconsthorpe|http://www.norfolkchurches.co.uk/Baconsthorpe/Baconsthorpe.htm
+1.1955255|52.8893372|St Peter's, North Barningham|http://www.norfolkchurches.co.uk/NorthBarningham/NorthBarningham.htm
+1.1884833|52.8762175|St Mary's, Barningham Winter|http://www.norfolkchurches.co.uk/BarninghamWinter/BarninghamWinter.htm
+1.1940006|52.8686554|St Peter's, Matlaske|http://www.norfolkchurches.co.uk/Matlaske/Matlaske.htm
+1.2191361|52.8876445|St Mary's, Bessingham|http://www.norfolkchurches.co.uk/Bessingham/Bessingham.htm
+1.2394624|52.8770081|All Saint's, Thurgarton|http://www.norfolkchurches.co.uk/Thurgarton/Thurgarton.htm
+1.2433043|52.886676|St Peter and St Paul, Sustead|http://www.norfolkchurches.co.uk/Sustead/Sustead.htm
+1.2670755|52.8882956|St Andrew's, Metton|http://www.norfolkchurches.co.uk/Metton/Metton.htm
+1.2720915|52.8672901|St Bartholomew's, Hanworth|http://www.norfolkchurches.co.uk/Hanworth/Hanworth.htm
+1.2700836|52.8551043|St Ethelbert's, Alby|http://www.norfolkchurches.co.uk/Alby/Alby.htm
+1.3139693|52.8334349|St Margaret of Antioch, Suffield|http://www.norfolkchurches.co.uk/Suffield/Suffield.htm
+1.343748|52.8461888|St Mary's, Antingham|http://www.norfolkchurches.co.uk/Antingham/Antingham.htm

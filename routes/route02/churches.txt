@@ -1,0 +1,13 @@
+0.2342981|52.609656|St Clement's Outwell|http://norfolkchurches.co.uk/outwell/outwell.htm
+0.2226474|52.6024275|St Peter's Upwell|http://norfolkchurches.co.uk/upwell/upwell.htm
+0.1998869|52.6440464|St Edmund, Emneth|http://www.norfolkchurches.co.uk/Emneth/Emneth.htm
+0.1811944|52.6714314|All Saints', Walsoken|http://www.norfolkchurches.co.uk/Walsoken/Walsoken.htm
+0.1753248|52.6979694|St Mary's , West Walton|http://www.norfolkchurches.co.uk/WestWalton/WestWalton.htm
+0.2228648|52.735686|Walpole St Andrew|http://norfolkchurches.co.uk/walpolestandrew/walpolestandrew.htm
+0.2220899|52.7293129|Walpole St Peter's|http://norfolkchurches.co.uk/walpolestpeter/walpolestpeter.htm
+0.277795|52.7188409|Terrington St John|http://norfolkchurches.co.uk/terringtonstjohn/terringtonstjohn.htm
+0.2922468|52.7095206|Tilney, St Lawrence|http://norfolkchurches.co.uk/tilneystlawrence/tilneystlawrence.htm
+0.3220009|52.7371252|Tilney, All Saints|http://norfolkchurches.co.uk/tilneyallsaints/tilneyallsaints.htm
+0.298082|52.7595823|Terrington St Clement|http://norfolkchurches.co.uk/terringtonstclement/terringtonstclement.htm
+0.3530896|52.7558125|St Margaret's Clenchwarton|http://norfolkchurches.co.uk/clenchwarton/clenchwarton.htm
+0.3866481|52.7509982|St Peter's, West Lynn|http://www.norfolkchurches.co.uk/WestLynn/WestLynn.htm

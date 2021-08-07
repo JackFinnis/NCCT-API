@@ -1,0 +1,38 @@
+1.0969196|52.4104115|All Saints', Shelfanger|http://www.norfolkchurches.co.uk/Shelfanger/Shelfanger.htm
+1.1010631|52.4290277|St Mary's, Winfarthing|http://www.norfolkchurches.co.uk/Winfarthing/Winfarthing.htm
+1.0354753|52.4532835|St Mary's, Banham|http://www.norfolkchurches.co.uk/Banham/Banham.htm
+1.0431936|52.4821545|All Saint's, Old Buckenham|http://www.norfolkchurches.co.uk/OldBuckenham/OldBuckenham.htm
+1.0723899|52.4732062|St Martin's, New Buckenham|http://www.norfolkchurches.co.uk/NewBuckenham/NewBuckenham.htm
+1.0432361|52.5194467|All Saint's, Besthorpe|http://www.norfolkchurches.co.uk/Besthorpe/Besthorpe.htm
+1.051392|52.5608193|St Botolph's, Morley St Botolph|http://www.norfolkchurches.co.uk/MorleyStBotolph/MorleyStBotolph.htm
+1.0420365|52.5468245|St Peter's, Morley St Peter|http://www.norfolkchurches.co.uk/MorleyStPeter/MorleyStPeter.htm
+1.0227058|52.5640963|St Andrew's, Deopham|http://www.norfolkchurches.co.uk/Deopham/Deopham.htm
+1.0383094|52.5796577|St Mary's, Hackford|http://www.norfolkchurches.co.uk/Hackford/Hackford.htm
+1.0535014|52.5801271|St Andrew and All Saint's, Wicklewood|http://www.norfolkchurches.co.uk/Wicklewood/Wicklewood.htm
+1.0732512|52.5867515|St James, Crownthorpe|http://www.norfolkchurches.co.uk/Crownthorpe/Crownthorpe.htm
+1.0570612|52.5961488|St Peter's, Kimberley|http://www.norfolkchurches.co.uk/Kimberley/Kimberley.htm
+1.0449984|52.6148753|St Michael's, Coston|http://www.norfolkchurches.co.uk/Coston/Coston.htm
+1.0388754|52.621335|All Saints', Runhall|http://www.norfolkchurches.co.uk/Runhall/Runhall.htm
+1.0550154|52.6501331|All Saints', Welborne|http://www.norfolkchurches.co.uk/welbourne/welbourne.htm
+1.0346969|52.6585731|All Saints', Mattishall|http://www.norfolkchurches.co.uk/Mattishall/Mattishall.htm
+1.0394157|52.6646641|St Peter's, Mattishall Burgh|http://www.norfolkchurches.co.uk/MattishallBurgh/MattishallBurgh.htm
+1.0395993|52.675528|St Mary's, North Tuddenham|http://www.norfolkchurches.co.uk/NorthTuddenham/NorthTuddenham.htm
+0.9558519|52.7091098|St Andrew's, Hoe|http://www.norfolkchurches.co.uk/Hoe/Hoe.htm
+0.9888935|52.7165351|All Saint's, Swanton Morley|http://www.norfolkchurches.co.uk/SwantonMorley/SwantonMorley.htm
+0.9538243|52.7373677|St Margaret's, Worthing|http://www.norfolkchurches.co.uk/Worthing/Worthing.htm
+0.9808929|52.7452212|St Peter's Billingford|http://www.norfolkchurches.co.uk/billingford/billingford2.htm
+0.9885923|52.7707792|St Swithun's, Bintree|http://www.norfolkchurches.co.uk/Bintree/Bintree.htm
+0.9888962|52.7814627|St Nicholas, Twyford|http://www.norfolkchurches.co.uk/Twyford/Twyford.htm
+1.0123167|52.7848749|Holy Innocent's, Foulsham|http://www.norfolkchurches.co.uk/Foulsham/Foulsham.htm
+1.0562406|52.8018133|St Peter's, Guestwick|http://www.norfolkchurches.co.uk/Guestwick/Guestwick.htm
+1.0861077|52.823053|St Andrew's, Thurning|http://www.norfolkchurches.co.uk/Thurning/Thurning.htm
+1.1398826|52.8212811|St Peter's, Corpusty|http://www.norfolkchurches.co.uk/Corpusty/Corpusty.htm
+1.169237|52.8117569|St Peter and St Paul, Oulton|http://www.norfolkchurches.co.uk/Oulton/Oulton.htm
+1.231418|52.8100621|St Andrew's, Blickling|http://www.norfolkchurches.co.uk/Blickling/Blickling.htm
+1.2526895|52.8190784|St Lawrence's, Ingworth|http://www.norfolkchurches.co.uk/Ingworth/Ingworth.htm
+1.2507708|52.7962216|St Michael, Aylsham|http://www.norfolkchurches.co.uk/Aylsham/Aylsham.htm
+1.2867929|52.7781329|St Mary's, Burgh next Aylsham|http://www.norfolkchurches.co.uk/burghmary/burghmary.htm
+1.2894361|52.7737947|St Peter's, Brampton|http://www.norfolkchurches.co.uk/Brampton/Brampton.htm
+1.3036596|52.768358|St Michael and All Angels, Oxnead|http://www.norfolkchurches.co.uk/Oxnead/Oxnead.htm
+1.3082766|52.7559904|St Andrew's, Buxton|http://www.norfolkchurches.co.uk/Buxton/Buxton.htm
+1.3262234|52.760466|St Andrew's, Lamas|http://www.norfolkchurches.co.uk/Lamas/Lamas.htm

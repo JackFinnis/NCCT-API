@@ -1,0 +1,26 @@
+1.0786165|52.3814863|St Remigius, Roydon|http://www.norfolkchurches.co.uk/Roydon/Roydon.htm
+1.0490592|52.3856449|St John The Baptist, Bressingham|http://www.norfolkchurches.co.uk/Bressingham/Bressingham.htm
+1.0351975|52.4050759|St Andrew's, Fersfield|http://www.norfolkchurches.co.uk/Fersfield/Fersfield.htm
+0.9960435|52.3965936|St Andrew's, South Lopham|http://www.norfolkchurches.co.uk/lophamsouth/lophamsouth.htm
+0.9918785|52.4033836|St Nicholas, North Lopham|http://www.norfolkchurches.co.uk/lophamnorth/lophamnorth.htm
+0.9556793|52.3790464|St Andrew's, Blo Norton|http://www.norfolkchurches.co.uk/BloNorton/BloNorton.htm
+0.9937416|52.4343424|St Mary's, Kenninghall|http://www.norfolkchurches.co.uk/Kenninghall/Kenninghall.htm
+0.9835584|52.4497445|St Andrew's, Quidenham|http://www.norfolkchurches.co.uk/Quidenham/Quidenham.htm
+0.9712585|52.4654547|St Mary's, Eccles|http://www.norfolkchurches.co.uk/Eccles/Eccles.htm
+0.9891464|52.4700847|All Saint's, Wilby|http://www.norfolkchurches.co.uk/Wilby/Wilby.htm
+0.9733628|52.4832113|All Saints', Hargham|http://www.norfolkchurches.co.uk/Hargham/Hargham.htm
+1.0187762|52.5181114|St Mary, Attleborough|http://www.norfolkchurches.co.uk/Attleborough/Attleborough.htm
+0.9769793|52.5350966|St James, Great Ellingham|http://www.norfolkchurches.co.uk/GreatEllingham/GreatEllingham.htm
+0.9562079|52.5537328|St Peter's, Little Ellingham|http://www.norfolkchurches.co.uk/LittleEllingham/LittleEllingham.htm
+0.9825129|52.5795122|St Andrew's, Hingham|http://www.norfolkchurches.co.uk/Hingham/Hingham.htm
+0.9326205|52.5928078|St Nicholas, Woodrising|http://www.norfolkchurches.co.uk/Woodrising/Woodrising.htm
+0.9266266|52.6024291|St Mary, Cranworth|http://www.norfolkchurches.co.uk/Cranworth/Cranworth.htm
+0.956574|52.6048088|St Andrew's, Southburgh|http://www.norfolkchurches.co.uk/Southburgh/Southburgh.htm
+1.0032442|52.6057|St George, Hardingham|http://www.norfolkchurches.co.uk/Hardingham/Hardingham.htm
+0.9803256|52.6166729|St Peter's, Reymerston|http://www.norfolkchurches.co.uk/Reymerston/Reymerston.htm
+1.002159|52.6241679|St Paul, Thuxton|http://www.norfolkchurches.co.uk/Thuxton/Thuxton.htm
+0.9880335|52.62638|St Margaret's, Garvestone|http://www.norfolkchurches.co.uk/garveston/garveston.htm
+0.9640277|52.6417015|St Mary, Winburgh|http://www.norfolkchurches.co.uk/whinburgh/whinburgh.htm
+0.9457458|52.6505194|St Andrew, Westfield|http://www.norfolkchurches.co.uk/Westfield/Westfield.htm
+0.9667099|52.6571059|St Peter, Yaxham|http://www.norfolkchurches.co.uk/Yaxham/Yaxham.htm
+0.9383372|52.6809804|St Nicholas, Dereham|http://www.norfolkchurches.co.uk/derehamnicholas/derehamnicholas.htm

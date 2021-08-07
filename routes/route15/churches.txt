@@ -1,0 +1,30 @@
+1.3400351|52.8144497|St Andrew, Felmingham|http://www.norfolkchurches.co.uk/Felmingham/Felmingham.htm
+1.3292205|52.7825476|All Saints', Skeyton|http://www.norfolkchurches.co.uk/Skeyton/Skeyton.htm
+1.3553666|52.7806845|St Michael's, Swanton Abbott|http://www.norfolkchurches.co.uk/swantonabbot/swantonabbot.htm
+1.3588529|52.7864549|St Botolph's, Westwick|http://www.norfolkchurches.co.uk/Westwick/Westwick.htm
+1.4122033|52.768671|St Bartholomew, Sloley|http://www.norfolkchurches.co.uk/Sloley/Sloley.htm
+1.4119441|52.7839758|St Mary the Virgin, Worstead|http://www.norfolkchurches.co.uk/Worstead/Worstead.htm
+1.450345|52.7995837|St Peter and St Paul, Honing|http://www.norfolkchurches.co.uk/Honing/Honing.htm
+1.4482538|52.7812503|St Nicholas, Dilham|http://www.norfolkchurches.co.uk/Dilham/Dilham.htm
+1.4573612|52.763364|St Peter's Church, Smallburgh|http://www.norfolkchurches.co.uk/Smallburgh/Smallburgh.htm
+1.4701929|52.7443509|St Michael and All Angels, Barton Turf|http://www.norfolkchurches.co.uk/BartonTurf/BartonTurf.htm
+1.4468263|52.7459962|St Lawrence, Beeston|http://www.norfolkchurches.co.uk/Beeston/Beeston.htm
+1.4709731|52.7248963|St Peter's, Neatishead|http://www.norfolkchurches.co.uk/Neatishead/Neatishead.htm
+1.5019242|52.7301941|St Michael's, Irstead|http://www.norfolkchurches.co.uk/Irstead/Irstead.htm
+1.4846376|52.6966007|St Benedict's, Horning|http://www.norfolkchurches.co.uk/Horning/Horning.htm
+1.418007|52.7126221|St John's, Hoveton|http://www.norfolkchurches.co.uk/Hoveton/Hoveton.htm
+1.3980895|52.7069787|St Mary's, Wroxham|http://www.norfolkchurches.co.uk/Wroxham/Wroxham.htm
+1.4068174|52.6841333|All Saints', Salhouse|http://www.norfolkchurches.co.uk/Salhouse/Salhouse.htm
+1.4495222|52.6852259|Saints Fabian and Sebastian, Woodbastwick|http://www.norfolkchurches.co.uk/woodbastwick/index1.html
+1.4840055|52.6796794|St Helen's, Ranworth|http://www.norfolkchurches.co.uk/Ranworth/Ranworth.htm
+1.4774529|52.650778|All Saints', Hemblington|http://www.norfolkchurches.co.uk/Hemblington/Hemblington.htm
+1.4973025|52.6654323|St Mary's, South Walsham|http://www.norfolkchurches.co.uk/swalshammary/swalshamstmary.htm
+1.5367846|52.6548967|St Margaret, Upton|http://www.norfolkchurches.co.uk/Upton/Upton.htm
+1.544908|52.6488953|St Mary's, Fishley|http://www.norfolkchurches.co.uk/Fishley/Fishley.htm
+1.547628|52.6373964|St Edmund's, Acle|http://www.norfolkchurches.co.uk/Acle/Acle.htm
+1.598944|52.6387149|St Andrew's, Stokesby|http://www.norfolkchurches.co.uk/Stokesby/Stokesby.htm
+1.6340776|52.6394404|St Peter and St Paul, Runham|http://www.norfolkchurches.co.uk/Runham/Runham.htm
+1.6366142|52.6537213|St Mary's, Thrigby|http://www.norfolkchurches.co.uk/Thrigby/Thrigby.htm
+1.6663207|52.6528166|St Peter and St Paul, Mautby|http://www.norfolkchurches.co.uk/Mautby/Mautby.htm
+1.7241151|52.6499328|Holy Trinity, Caister|http://www.norfolkchurches.co.uk/Caister/Caister.htm
+1.7308243|52.6017961|St Nicholas, Great Yarmouth|http://www.norfolkchurches.co.uk/gynicholas/gynicholas.htm

@@ -1,0 +1,27 @@
+1.3872963|52.7148766|St Peter, Belaugh|http://www.norfolkchurches.co.uk/Belaugh/Belaugh.htm
+1.3626716|52.7278655|St John The Baptist, Coltishall|http://www.norfolkchurches.co.uk/Coltishall/Coltishall.htm
+1.3500053|52.7297325|All Saints', Horstead|http://www.norfolkchurches.co.uk/Horstead/Horstead.htm
+1.3223678|52.718699|St Swithin's, Frettenham|http://www.norfolkchurches.co.uk/Frettenham/Frettenham.htm
+1.3398773|52.6936716|St Peter's, Crostwick|http://www.norfolkchurches.co.uk/Crostwick/Crostwick.htm
+1.3574611|52.6854656|All Saints', Rackheath|http://www.norfolkchurches.co.uk/Rackheath/Rackheath.htm
+1.4008591|52.6386738|St Mary, Great Plumstead|http://www.norfolkchurches.co.uk/greatplumstead/index.html
+1.4097361|52.6469466|St Gervase and St Protase, Little Plumpstead|http://www.norfolkchurches.co.uk/littleplumstead/index.html
+1.4187605|52.6363683|St Margaret's, Witton|http://www.norfolkchurches.co.uk/Witton/Witton.htm
+1.3903609|52.6198637|All Saints', Postwick|http://www.norfolkchurches.co.uk/postwick/index.html
+1.4338328|52.626012|St Lawrence, Brundall|http://www.norfolkchurches.co.uk/Brundall/Brundall.htm
+1.4519535|52.6260708|St Michaeland All Angels, Braydeston|http://www.norfolkchurches.co.uk/Braydeston/Braydeston.htm
+1.4497435|52.630955|St Andrew and St Peter, Blofield|http://www.norfolkchurches.co.uk/Blofield/Blofield.htm
+1.4688136|52.616825|St Peter's, Strumpshaw|http://www.norfolkchurches.co.uk/Strumpshaw/Strumpshaw.htm
+1.48683|52.6284004|St Peter's, Lingwood|http://www.norfolkchurches.co.uk/lingwood/index.html
+1.4944689|52.6376604|St Andrew, North Burlingham|http://www.norfolkchurches.co.uk/burlinghamandrew/burlinghamandrew.htm
+1.4964328|52.5959162|St Mary, Hassingham|http://www.norfolkchurches.co.uk/Hassingham/Hassingham.htm
+1.4770404|52.5995765|St Nicholas, Buckenham|http://www.norfolkchurches.co.uk/Buckenham/Buckenham.htm
+1.5032121|52.6205204|St Edmund, South Burlingham|http://www.norfolkchurches.co.uk/burlinghamstedmund/burlinghamstedmund.htm
+1.5246035|52.6206116|All Saints', Beighton|http://www.norfolkchurches.co.uk/Beighton/Beighton.htm
+1.5467737|52.6051757|St Mary, Moulton St Mary|http://www.norfolkchurches.co.uk/moultonstmary/moulton.htm
+1.5685039|52.6045412|St Peter and St Paul, Halvergate|http://www.norfolkchurches.co.uk/Halvergate/Halvergate.htm
+1.5548817|52.5944367|All Saints', Freethorpe|http://www.norfolkchurches.co.uk/Freethorpe/Freethorpe.htm
+1.5823475|52.5930029|St Andrew, Wickhampton|http://www.norfolkchurches.co.uk/Wickhampton/Wickhampton.htm
+1.5170686|52.5814291|St Margaret, Cantley|http://www.norfolkchurches.co.uk/Cantley/Cantley.htm
+1.5339212|52.5816419|St Botulph, Limpenhoe|http://www.norfolkchurches.co.uk/Limpenhoe/Limpenhoe.htm
+1.5805781|52.5664311|St John The Baptist, Reedham|http://www.norfolkchurches.co.uk/Reedham/Reedham.htm

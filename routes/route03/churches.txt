@@ -1,0 +1,19 @@
+0.4222672|52.7572334|St Faith, Gaywood|http://norfolkchurches.co.uk/gaywoodcofe/gaywoodcofe.htm
+0.430391|52.7777086|St Mary's, South Wootton|http://norfolkchurches.co.uk/southwooton/southwooton.htm
+0.4307145|52.7916542|All Saint's, North Wootton|http://norfolkchurches.co.uk/northwooton/northwooton.htm
+0.4698786|52.7960931|St Lawrence's, Castle Rising|http://www.norfolkchurches.co.uk/CastleRising/CastleRising.htm
+0.5162317|52.8196968|St Peter and St Paul, West Newton|http://www.norfolkchurches.co.uk/WestNewton/WestNewton.htm
+0.4588284|52.8260504|St Peter's, Wolferton|http://www.norfolkchurches.co.uk/Wolferton/Wolferton.htm
+0.5091609|52.8284708|St Mary Magdalene, Sandringham|http://www.norfolkchurches.co.uk/Sandringham/Sandringham.htm
+0.5123554|52.8444826|St Nicholas, Dersingham|http://www.norfolkchurches.co.uk/Dersingham/Dersingham.htm
+0.544367|52.8620478|St Peter and St Paul, Shernbourne|http://norfolkchurches.co.uk/shernborne/shernborne.htm
+0.5102303|52.8657707|St Michael, Ingoldisthorpe|http://www.norfolkchurches.co.uk/Ingoldisthorpe/Ingoldisthorpe.htm
+0.5106362|52.8794884|St Mary, Snettisham|http://www.norfolkchurches.co.uk/Snettisham/Snettisham.htm
+0.5370006|52.8996453|St Mary's, Sedgeford|http://www.norfolkchurches.co.uk/Sedgeford/Sedgeford.htm
+0.49846|52.9132162|St Mary's, Heacham|http://www.norfolkchurches.co.uk/Heacham/Heacham.htm
+0.5128276|52.9495266|St Mary's, Old Hunstanton|http://www.norfolkchurches.co.uk/OldHunstanton/OldHunstanton.htm
+0.5365598|52.936803|St Andrew's Church, Ringstead|http://www.norfolkchurches.co.uk/Ringstead/Ringstead.htm
+0.5401518|52.9611459|St Mary, Holme next the Sea|http://www.norfolkchurches.co.uk/Holme/Holme.htm
+0.5799251|52.960618|All Saints', Thornham|http://www.norfolkchurches.co.uk/Thornham/Thornham.htm
+0.6225903|52.9637998|St Mary, Titchwell|http://www.norfolkchurches.co.uk/Titchwell/Titchwell.htm
+0.6373532|52.9635076|St Mary's, Brancaster|http://www.norfolkchurches.co.uk/Brancaster/Brancaster.htm

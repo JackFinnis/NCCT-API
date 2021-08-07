@@ -1,0 +1,31 @@
+1.5482103|52.5332362|St Mary, Norton Subcourse|http://www.norfolkchurches.co.uk/NortonSubcourse/NortonSubcourse.htm
+1.5619476|52.5291506|All Saints', Thurlton|http://www.norfolkchurches.co.uk/Thurlton/Thurlton.htm
+1.5733972|52.5018886|St Margaret, Toft Monks|http://www.norfolkchurches.co.uk/ToftMonks/ToftMonks.htm
+1.5324919|52.5129708|St Andrew's, Raveningham|http://www.norfolkchurches.co.uk/Raveningham/Raveningham.htm
+1.5111581|52.5112106|St Margaret's, Hales|http://www.norfolkchurches.co.uk/Hales/Hales.htm
+1.5143873|52.5355718|St Gregory's, Heckingham|http://www.norfolkchurches.co.uk/Heckingham/Heckingham.htm
+1.4829156|52.5352503|Holy Trinity, Loddon|http://www.norfolkchurches.co.uk/Loddon/Loddon.htm
+1.4836022|52.5410571|All Saint's, Chedgrave|http://www.norfolkchurches.co.uk/Chedgrave/Chedgrave.htm
+1.5171511|52.5524208|St Margaret's, Hardley|http://www.norfolkchurches.co.uk/Hardley/Hardley.htm
+1.4715829|52.5558502|St Michael and All Saints, Langley|http://www.norfolkchurches.co.uk/Langley/Langley.htm
+1.4507212|52.5682034|St Peter, Carleton St Peter|http://www.norfolkchurches.co.uk/CarletonStPeter/CarletonStPeter.htm
+1.4355766|52.5682986|St Mary, Ashby St Mary|http://www.norfolkchurches.co.uk/AshbyStMary/AshbyStMary.htm
+1.4335986|52.5775417|St Andrew's, Claxton|http://www.norfolkchurches.co.uk/Claxton/Claxton.htm
+1.4111381|52.5850255|St Mary's Church, Rockland St Mary's|http://www.norfolkchurches.co.uk/rocklandstmary/rocklandstmary.htm
+1.4127344|52.5767638|St John the Baptist, Hellington|http://www.norfolkchurches.co.uk/Hellington/Hellington.htm
+1.404088|52.6077395|St Mary's, Surlingham|http://www.norfolkchurches.co.uk/Surlingham/Surlingham.htm
+1.3639193|52.6000508|St Andrew's, Kirby Bedon|http://www.norfolkchurches.co.uk/KirbyBedon/KirbyBedon.htm
+1.3877822|52.59142|St Peter, Bramerton|http://www.norfolkchurches.co.uk/Bramerton/Bramerton.htm
+1.3805077|52.5696005|St Mary's Yelverton|http://www.norfolkchurches.co.uk/yelverton/yelverton.htm
+1.4063954|52.5479073|St Peter and St Paul, Bergh Apton|http://www.norfolkchurches.co.uk/BerghApton/BerghApton.htm
+1.4341213|52.5534726|St Ethelbert's, Thurton|http://www.norfolkchurches.co.uk/Thurton/Thurton.htm
+1.4546676|52.5352959|St Mary's, Sisland|http://www.norfolkchurches.co.uk/Sisland/Sisland.htm
+1.4361281|52.5288695|St Ethelbert's, Mundham|http://www.norfolkchurches.co.uk/mundham2/mundham2.htm
+1.4261289|52.5308014|St Peter's, Mundham|http://www.norfolkchurches.co.uk/mundham1/mundham1.htm
+1.4187045|52.5302793|St Margaret and St Remigius, Seething|http://www.norfolkchurches.co.uk/Seething/Seething.htm
+1.3818463|52.5457024|St Mary's, Brooke|http://www.norfolkchurches.co.uk/Brooke/Brooke.htm
+1.3509043|52.5498518|St Mary's, Howe|http://www.norfolkchurches.co.uk/Howe/Howe.htm
+1.3492166|52.5658751|All Saints', Poringland|http://www.norfolkchurches.co.uk/poringlandcofe/poringlandcofe.htm
+1.3597139|52.5755902|St Andrews, Framingham Earl|http://www.norfolkchurches.co.uk/FraminghamEarl/FraminghamEarl.htm
+1.3615414|52.5830913|St Andrew, Framingham Pigot|http://www.norfolkchurches.co.uk/FraminghamPigot/FraminghamPigot.htm
+1.3236565|52.5901881|St Mary's, Arminghall|http://www.norfolkchurches.co.uk/Arminghall/Arminghall.htm

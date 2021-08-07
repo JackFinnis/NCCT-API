@@ -1,0 +1,22 @@
+1.6497694|52.6612462|All Saints', Filby|http://www.norfolkchurches.co.uk/Filby/Filby.htm
+1.6147292|52.6688398|St Margaret, Fleggburgh|http://www.norfolkchurches.co.uk/burghmargaret/burghmargaret.htm
+1.5919365|52.6661201|All Saints', Billockby|http://www.norfolkchurches.co.uk/Billockby/Billockby.htm
+1.5902628|52.6751039|St Peter's, Clippesby|http://www.norfolkchurches.co.uk/Clippesby/Clippesby.htm
+1.6176872|52.6845583|St George's, Rollesby|http://www.norfolkchurches.co.uk/Rollesby/Rollesby.htm
+1.5569075|52.6855238|St Edmund, Thurne|http://www.norfolkchurches.co.uk/Thurne/Thurne.htm
+1.6328491|52.7084978|St Mary's, Martham|http://www.norfolkchurches.co.uk/Martham/Martham.htm
+1.5828967|52.6965264|St Peter's, Repps|http://www.norfolkchurches.co.uk/Repps/Repps.htm
+1.5818657|52.7234753|St Nicholas, Potter Heigham|http://www.norfolkchurches.co.uk/PotterHeigham/PotterHeigham.htm
+1.5348026|52.7110546|St Catherine, Ludham|http://www.norfolkchurches.co.uk/Ludham/Ludham.htm
+1.5268203|52.737167|All Saints', Catfield|http://www.norfolkchurches.co.uk/Catfield/Catfield.htm
+1.5781171|52.7625524|St Mary's, Hickling|http://www.norfolkchurches.co.uk/Hickling/Hickling.htm
+1.5382618|52.7603103|St Michael's, Sutton|http://www.norfolkchurches.co.uk/Sutton/Sutton.htm
+1.5165599|52.7719333|St Mary's, Stalham|http://www.norfolkchurches.co.uk/Stalham/Stalham.htm
+1.5437433|52.7790127|Holy Trinity, Ingham|http://www.norfolkchurches.co.uk/Ingham/Ingham.htm
+1.5131232|52.7868735|St Peter's, Brumstead|http://www.norfolkchurches.co.uk/Brumstead/Brumstead.htm
+1.5062567|52.8045885|St Mary's, East Ruston|http://www.norfolkchurches.co.uk/EastRuston/EastRuston.htm
+1.4801642|52.8267366|St Peter's, Ridlington|http://www.norfolkchurches.co.uk/Ridlington/Ridlington.htm
+1.4625918|52.8178922|All Saints', Crostwight|http://www.norfolkchurches.co.uk/crosswight/crosswight.htm
+1.4589669|52.8318906|St Margaret's, Witton|http://www.norfolkchurches.co.uk/Witton/Witton.htm
+1.4487548|52.8463968|All Saints', Edingthorpe|http://www.norfolkchurches.co.uk/Edingthorpe/Edingthorpe.htm
+1.3873357|52.8216346|St Nicholas, North Walsham|http://www.norfolkchurches.co.uk/NorthWalsham/NorthWalsham.htm

@@ -1,0 +1,30 @@
+1.1099058|52.3777881|St Mary's, Diss|http://www.norfolkchurches.co.uk/dissmary/dissmary.htm
+1.7248444|52.5790818|St Andrew's, Gorleston|http://www.norfolkchurches.co.uk/gorleston/gorlestonandrew.htm
+1.6929396|52.5749752|St Nichols, Bradwell|http://www.norfolkchurches.co.uk/Bradwell/Bradwell.htm
+1.6588066|52.5867132|St Peter and St Paul, Burgh Castle|http://www.norfolkchurches.co.uk/BurghCastle/BurghCastle.htm
+1.6662967|52.5677949|All Saints', Belton|http://www.norfolkchurches.co.uk/Belton/Belton.htm
+1.6461184|52.5433829|St Catherine's, Fritton|http://www.norfolkchurches.co.uk/Fritton/Fritton.htm
+1.5935866|52.5159343|St Mary's Haddiscoe|http://www.norfolkchurches.co.uk/haddiscoe/haddiscoe.htm
+1.5899211|52.5266511|St Mathias, Thorpe next Haddiscoe|http://www.norfolkchurches.co.uk/thorpenexthaddiscoe/thorpenexthaddiscoe.htm
+1.6228309|52.488262|All Saints', Wheatacre|http://www.norfolkchurches.co.uk/Wheatacre/Wheatacre.htm
+1.670753|52.4850753|St Mary, Burgh St Peter|http://www.norfolkchurches.co.uk/BurghStPeter/BurghStPeter.htm
+1.6076053|52.4833181|St Mary the Virgin, Aldeby|http://www.norfolkchurches.co.uk/aldeby/aldeby.htm
+1.549554|52.4762198|St Mary's, Gillingham|http://www.norfolkchurches.co.uk/gillinghamcofe/gillinghamcofe.htm
+1.5252157|52.4758255|St Michael Geldeston|http://www.norfolkchurches.co.uk/geldeston/geldeston.htm
+1.5157706|52.4934207|St Michael and All Angels, Stockton|http://www.norfolkchurches.co.uk/Stockton/Stockton.htm
+1.4951433|52.4939377|All Saints', Kirby Cane|http://www.norfolkchurches.co.uk/KirbyCane/KirbyCane.htm
+1.4841591|52.4735745|St Mary's, Ellingham|http://www.norfolkchurches.co.uk/Ellingham/Ellingham.htm
+1.4550195|52.4865646|St Michael, Broome|http://www.norfolkchurches.co.uk/Broome/Broome.htm
+1.4294532|52.4791542|St Mary's, Ditchingham|http://www.norfolkchurches.co.uk/Ditchingham/Ditchingham.htm
+1.4214555|52.44781|All Saints', Earsham|http://www.norfolkchurches.co.uk/Earsham/Earsham.htm
+1.3620586|52.4366743|St Mary's, Denton|http://www.norfolkchurches.co.uk/Denton/Denton.htm
+1.3394422|52.4367789|All Saints', Alburgh|http://www.norfolkchurches.co.uk/Alburgh/Alburgh.htm
+1.3274847|52.4115063|St Mary, Redenhall|http://www.norfolkchurches.co.uk/Redenhall/Redenhall.htm
+1.2849747|52.4122998|St Margaret's, Starston|http://www.norfolkchurches.co.uk/Starston/Starston.htm
+1.2774193|52.3903413|St Peter, Needham|http://www.norfolkchurches.co.uk/Needham/Needham.htm
+1.2367904|52.3704275|St Peter and St Paul, Brockdish|http://www.norfolkchurches.co.uk/Brockdish/Brockdish.htm
+1.2114356|52.3652342|All Saints', Thorpe Abbotts|http://www.norfolkchurches.co.uk/thorpeabbots/thorpeabbots.htm
+1.183501|52.3672704|St Leonard's, Billingham|http://www.norfolkchurches.co.uk/billingford/billingford.htm
+1.1602035|52.3673228|St Andrew's, Scole|http://www.norfolkchurches.co.uk/Scole/Scole.htm
+1.1365621|52.3808729|St Andrew's, Frenze|http://www.norfolkchurches.co.uk/Frenze/Frenze.htm
+1.1099117|52.3778124|St Mary's, Diss|http://www.norfolkchurches.co.uk/dissmary/dissmary.htm
