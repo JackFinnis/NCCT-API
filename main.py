@@ -26,10 +26,7 @@ def get_routes():
             churchDict = {
                 'name': churchArray[2],
                 'urlString': churchArray[3],
-                'coord': {
-                    'lat': float(churchArray[1]),
-                    'long': float(churchArray[0])
-                }
+                'coordinate': [float(churchArray[1]), float(churchArray[0])]
             }
             churchData.append(churchDict)
 
@@ -37,11 +34,8 @@ def get_routes():
         coordinatesData = []
         for coord in coordinatesFile.split('\n'):
             coordArray = coord.split('|')
-            coordDict = {
-                'lat': float(coordArray[1]),
-                'long': float(coordArray[0])
-            }
-            coordinatesData.append(coordDict)
+            coord = [float(coordArray[1]), float(coordArray[0])]
+            coordinatesData.append(coord)
 
         descriptionFile = open(routePath + '/description.txt').read()
         descriptionData = descriptionFile.split('\n')
