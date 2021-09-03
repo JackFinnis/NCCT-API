@@ -17,4 +17,4 @@
 0.8906314|52.8733955|St Mary the Virgin, Great Snoring|http://www.norfolkchurches.co.uk/GreatSnoring/GreatSnoring.htm
 0.8994719|52.8557262|S Andrew's, Little Snoring|http://www.norfolkchurches.co.uk/LittleSnoring/LittleSnoring.htm
 0.9206163|52.8475109|All Saints', Kettlestone|http://www.norfolkchurches.co.uk/Kettlestone/Kettlestone.htm
-0.8475378|52.8311484|Fakenham, St Peter and St Paul|
+0.8475378|52.8311484|Fakenham, St Peter and St Paul|http://www.norfolkchurches.co.uk/norfolkindex.htm

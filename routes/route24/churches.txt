@@ -1,4 +1,4 @@
-1.1150426|52.5675667|I2 Station Rd, Wymondham NR18 0JX, UK|
+1.1150426|52.5675667|I2 Station Rd, Wymondham NR18 0JX, UK|http://www.norfolkchurches.co.uk/norfolkindex.htm
 1.242178|52.5909402|Intwood Road, Intwood, Norwich NR4 6TG, UK|http://www.norfolkchurches.co.uk/intwood/intwood.htm
 1.1920929|52.5779777|St Peter's Church, Ketteringham|http://www.norfolkchurches.co.uk/Ketteringham/Ketteringham.htm
 1.2154451|52.5730054|St Mary's, East Carleton|http://www.norfolkchurches.co.uk/EastCarleton/EastCarleton.htm
